@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Estos serán los strings en ingles. Este solo funciona cuando el dispositvo esta en ingles -->
+<resources>
+    <string name="app_name">Dc Comics</string>
+    <string name="superman">Superman</string>
+    <string name="name">Clark Kent, kal - El</string>
+    <string name="power_superman">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+    <string name="power_title">Powers:</string>
+</resources>

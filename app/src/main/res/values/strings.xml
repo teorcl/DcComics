@@ -2,4 +2,6 @@
     <string name="app_name">Dc Comics</string>
     <string name="superman">Superman</string>
     <string name="name">Clark Kent, kal - El</string>
+    <string name="power_superman">súper fuerza, vuelo, invulnerabilidad, súper velocidad, visión de calor, aliento congelado, visión de rayos X, audición sobrehumana, factor de curación</string>
+    <string name="power_title">Poderes:</string>
 </resources>

@@ -13,4 +13,6 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <!-- Todos los estilos que defina aqui deben ir orientados a el modo oscuro. -->
 </resources>
