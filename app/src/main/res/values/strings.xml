@@ -7,5 +7,7 @@
     <string name="registro_titulo">Registrar un Super Heroe</string>
     <string name="name_superhero">Nombre del super heroe</string>
     <string name="btn_register">Registrar</string>
+    <string name="height">Estatura</string>
+    <string name="info">"Nombre: %s, Estatura: %f"</string>
 
 </resources>
