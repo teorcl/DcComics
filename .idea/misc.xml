@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/style_edit_text.xml" value="0.21616668701171876" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2516830444335938" />
+        <entry key="app/src/main/res/layout/activity_registro_super_heroe.xml" value="0.3452682495117188" />
       </map>
     </option>
   </component>

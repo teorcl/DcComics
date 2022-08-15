@@ -4,4 +4,8 @@
     <string name="name">Clark Kent, kal - El</string>
     <string name="power_superman">súper fuerza, vuelo, invulnerabilidad, súper velocidad, visión de calor, aliento congelado, visión de rayos X, audición sobrehumana, factor de curación</string>
     <string name="power_title">Poderes:</string>
+    <string name="registro_titulo">Registrar un Super Heroe</string>
+    <string name="name_superhero">Nombre del super heroe</string>
+    <string name="btn_register">Registrar</string>
+
 </resources>
