@@ -10,6 +10,13 @@
     <string name="name_superhero">Name Super Hero</string>
     <string name="btn_register">Register</string>
     <string name="height">Height</string>
-    <string name="info">"Nombre: %s, Estatura: %f"</string>
+    <string name="info">"Nombre: %s,\n Estatura: %f ,\n Género: %s,\n Poderes: %s"</string>
+    <string name="genero">Gender</string>
+    <string name="masculino">Male</string>
+    <string name="femenino">Female</string>
+    <string name="powers">Powers</string>
+    <string name="super_strength">Super strength </string>
+    <string name="speed">super Speed</string>
+    <string name="telepatia">Telepatía</string>
 
 </resources>
