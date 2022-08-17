@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_list">
+        <item>Ciudad Gótica</item>
+        <item>Ciudad Central</item>
+        <item>Metropolis</item>
+        <item>Temiscira</item>
+    </string-array>
+</resources>

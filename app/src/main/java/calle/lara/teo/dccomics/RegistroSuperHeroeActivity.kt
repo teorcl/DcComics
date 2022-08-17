@@ -20,6 +20,7 @@ import com.google.android.material.textfield.TextInputEditText
         val cboxFuerza : CheckBox = findViewById(R.id.cbox_super_fuerza)
         val cboxSpeed : CheckBox = findViewById(R.id.cbox_speed)
         val cboxTelepatia : CheckBox = findViewById(R.id.cbox_telepatia)
+        val spnrCiudades : Spinner = findViewById(R.id.spnr_ciudad_nacimiento)
 
 
         /*
@@ -36,11 +37,13 @@ import com.google.android.material.textfield.TextInputEditText
 
             var poderes = ""
 
+            val ciudadDeNacimiento = spnrCiudades.selectedItem.toString()
+
             if(cboxFuerza.isChecked) poderes = getString(R.string.super_strength)
             if(cboxSpeed.isChecked) poderes = poderes+" "+getString(R.string.speed)
             if(cboxTelepatia.isChecked) poderes = poderes+" "+getString(R.string.telepatia)
 
-            tvInfo.text = getString(R.string.info,etNombre.text.toString(),tietEstatura.text.toString().toFloat(), genero, poderes) // Esto hace lo mismo que las 2 instrucciones anteriores
+            tvInfo.text = getString(R.string.info,etNombre.text.toString(),tietEstatura.text.toString().toFloat(), genero, poderes, ciudadDeNacimiento) // Esto hace lo mismo que las 2 instrucciones anteriores
             /**Arriba se ve el uso de un placeholder*/
 
             //val string:Float = tietEstatura.text.toString().toFloat()
